@@ -93,4 +93,31 @@ body {
   left: 1150px;
   box-shadow: 1px 1px;
   border-radius: 12px;
+}
+
+.cont2 {
+  background-color: #F2F7FF;
+  height: 768px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.cont2 h1 {
+  font-size: 60px;
+}
+.cont2 p {
+  color: #8B8C8C;
+}
+.cont2 .fox {
+  width: 256px;
+  height: 253px;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 12px;
+}
+.cont2 .top {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
 }/*# sourceMappingURL=style.css.map */
