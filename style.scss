@@ -129,3 +129,23 @@ body{
     }
     
 }
+.cont3{
+    height: 356px;
+    background-color: #094B72;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    h1 {
+        font-size: 80px;
+    }
+    .hox{
+        display: flex;
+        gap: 60px;
+        text-align: center;
+        justify-content: center;
+        margin-top: 40px;
+    }
+}
