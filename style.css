@@ -173,4 +173,30 @@ body {
   gap: 4px;
   margin-left: 150px;
   margin-top: 20px;
+}
+
+.cont5 {
+  height: 374px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+.cont5 h1 {
+  font-size: 70px;
+}
+.cont5 p {
+  font-size: 30px;
+  color: #4F4F4F;
+}
+.cont5 button {
+  width: 219px;
+  height: 64px;
+  border: none;
+  background-color: #094B72;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  border-radius: 20px;
 }/*# sourceMappingURL=style.css.map */

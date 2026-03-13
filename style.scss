@@ -185,3 +185,28 @@ body{
     }
 
 }
+.cont5{
+    height: 374px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    h1{
+        font-size: 70px;
+    }
+    p{
+        font-size: 30px;
+        color: #4F4F4F;
+    }
+    button{
+        width: 219px;
+        height: 64px;
+        border: none;
+        background-color: #094B72;
+        text-align: center;
+        font-size: 30px;
+        color: white;
+        border-radius: 20px;
+    }
+}
