@@ -149,3 +149,39 @@ body{
         margin-top: 40px;
     }
 }
+.cont4{
+    height: 610px;
+    background-color: #F2F7FF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     .rightl{
+        width: 540px;
+        height: 232px;
+        background-color: white;
+        text-align: center;
+        box-sizing: border-box;
+        padding: 40px;
+        
+
+    }
+    h1{
+        font-size: 70px;
+    }
+
+    .gox{
+        display: flex;
+        gap: 30px;
+    }
+    .ceo{
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        margin-left: 150px;
+        margin-top: 20px;
+        
+    }
+
+}

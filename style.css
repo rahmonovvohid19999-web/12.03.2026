@@ -141,4 +141,36 @@ body {
   text-align: center;
   justify-content: center;
   margin-top: 40px;
+}
+
+.cont4 {
+  height: 610px;
+  background-color: #F2F7FF;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cont4 .rightl {
+  width: 540px;
+  height: 232px;
+  background-color: white;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 40px;
+}
+.cont4 h1 {
+  font-size: 70px;
+}
+.cont4 .gox {
+  display: flex;
+  gap: 30px;
+}
+.cont4 .ceo {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 150px;
+  margin-top: 20px;
 }/*# sourceMappingURL=style.css.map */
