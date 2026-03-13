@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+body{
+    max-width: 1800px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    .text{
+        display: flex;
+        gap: 30px;
+    }
+}
