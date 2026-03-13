@@ -6,12 +6,12 @@ body {
   max-width: 1800px;
 }
 
-.footer {
+.header {
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
-.footer .text {
+.header .text {
   display: flex;
   gap: 30px;
 }
@@ -199,4 +199,32 @@ body {
   font-size: 30px;
   color: white;
   border-radius: 20px;
+}
+
+.footer {
+  height: 470px;
+  background-color: #094B72;
+  color: white;
+  display: flex;
+  align-items: start;
+  justify-content: space-around;
+  padding: 80px;
+  box-sizing: border-box;
+}
+.footer .kox {
+  display: flex;
+  gap: 70px;
+}
+
+.dno {
+  height: 69px;
+  background-color: #004D7B;
+  color: #D9DBE1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.dno .icon {
+  display: flex;
+  gap: 10px;
 }/*# sourceMappingURL=style.css.map */
